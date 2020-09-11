@@ -2,5 +2,5 @@
 
 Currently I'm trying to play the game of life.
 -------
-![Image of Yaktocat](https://raw.githubusercontent.com/esmono/esmono/master/gameoflife/game-of-life.gif)
+![Game of life](https://raw.githubusercontent.com/esmono/github-conways-game-of-life/main/assets/game-of-life.gif)
 -------
